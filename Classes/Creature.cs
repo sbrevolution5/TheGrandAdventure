@@ -8,7 +8,15 @@ namespace TheGrandAdventure.Classes
         //fields 
         private string type;
         private string name;
+        private Area location;
         private int health;
+        //methods
+        //check HP
+        //check inventory
+        //take damage
+        //go somewhere 
+        //die
+        // level up?
         
     }
 }
