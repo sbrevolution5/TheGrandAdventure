@@ -5,6 +5,10 @@ namespace TheGrandAdventure.Classes
     /// </summary>
     public class Creature
     {
+        //fields 
+        private string type;
+        private string name;
+        private int health;
         
     }
 }
